@@ -23,4 +23,9 @@ Final model output:
 1. Probability of attrition for each employee (0 to 1)
 2. Top contributing features using **SHAP Values**
 3. Actionable HR recommendations based on model findings
+4. ---
+5. ## EDA( Descriptive statistics) 
+6. - we see both the percentage and the number of people who stayed with company or resigned in the chart below :
+   - 
 <img width="704" height="547" alt="image" src="https://github.com/user-attachments/assets/bd7429ce-50cc-49e0-9bdb-0beac5bc4f83" />
+---
