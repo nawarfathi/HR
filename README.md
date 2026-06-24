@@ -23,9 +23,9 @@ Final model output:
 1. Probability of attrition for each employee (0 to 1)
 2. Top contributing features using **SHAP Values**
 3. Actionable HR recommendations based on model findings
-4. ---
-5. ## EDA( Descriptive statistics) 
-6. - we see both the percentage and the number of people who stayed with company or resigned in the chart below :
+---
+ ## EDA( Descriptive statistics) 
+ - we see both the percentage and the number of people who stayed with company or resigned in the chart below :
    - In this plot, `0` indicates `NO` and `1` indicates `Yes`.
    - `Yes`: The employee has left the company (resigned, fired, or is no longer with the company).
    - `No`: The employee is still working for the company.
