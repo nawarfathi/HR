@@ -39,3 +39,13 @@ Final model output:
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/0d8ae3ea-0f2b-4226-9fdb-0ec1b77b8442" />
 
 - Here we see the distribution of the age column, where most employees are middle-aged.
+
+---
+
+- In this plot, we divided the distance from home to work for employees into three groups (near, medium, and far):
+
+- <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/edfb3a20-14f1-451a-9b05-2caa4fcdf4d1" />
+
+- What is notable here is that most employees live close to their workplaces, with only 16% of employees living a long distance from their workplaces.
+
+- ---
