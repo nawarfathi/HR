@@ -34,3 +34,8 @@ Final model output:
 - we are seeing `16% `of employees either resign or be fired .
 
 ---
+-In this plot, we have divided age into groups for better understanding:
+
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/0d8ae3ea-0f2b-4226-9fdb-0ec1b77b8442" />
+
+- Here we see the distribution of the age column, where most employees are middle-aged.
