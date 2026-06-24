@@ -30,5 +30,7 @@ Final model output:
    - `Yes`: The employee has left the company (resigned, fired, or is no longer with the company).
    - `No`: The employee is still working for the company.
 <img width="704" height="547" alt="image" src="https://github.com/user-attachments/assets/bd7429ce-50cc-49e0-9bdb-0beac5bc4f83" />
+
 - we are seeing `16% `of employees either resign or be fired .
+
 ---
