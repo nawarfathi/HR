@@ -49,3 +49,9 @@ Final model output:
 - What is notable here is that most employees live close to their workplaces, with only `16%` of employees living a long distance from their workplaces.
 
 - ---
+
+As you can see in this plot, the level of education of each employee shows that most employees have a bachelor's degree:
+
+<img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/a9393070-d936-47c2-a617-d91c5eab10f6" />
+
+---
