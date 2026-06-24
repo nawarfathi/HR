@@ -55,3 +55,15 @@ As you can see in this plot, the level of education of each employee shows that 
 <img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/a9393070-d936-47c2-a617-d91c5eab10f6" />
 
 ---
+
+This plot shows the level of satisfaction of each employee with the work environment:
+
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/8ef84981-c8d8-4d38-bd9c-e6b3275d00bb" />
+
+---
+
+This plot shows that 60% of the employees are male and 40% are female:
+
+<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/a131a3fe-c20d-4d25-9306-5ae38e222022" />
+
+---
