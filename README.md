@@ -46,6 +46,6 @@ Final model output:
 
 - <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/edfb3a20-14f1-451a-9b05-2caa4fcdf4d1" />
 
-- What is notable here is that most employees live close to their workplaces, with only 16% of employees living a long distance from their workplaces.
+- What is notable here is that most employees live close to their workplaces, with only `16%` of employees living a long distance from their workplaces.
 
 - ---
